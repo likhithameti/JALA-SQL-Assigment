@@ -1,0 +1,1 @@
+Select sname, city from salespeople where city in ("Barcelone","London"); 

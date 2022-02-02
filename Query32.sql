@@ -1,0 +1,1 @@
+Select onum, cname from orders, cust where orders.cnum = cust.cnum; 

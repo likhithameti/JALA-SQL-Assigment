@@ -1,0 +1,1 @@
+Select *  from orders where amt > 1000; 

@@ -1,0 +1,1 @@
+Select a.cname, b.cname,a.rating,b.rating from cust a, cust b where a.rating = b.rating and a.cnum != b.cnum 

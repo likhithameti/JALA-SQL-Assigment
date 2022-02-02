@@ -1,0 +1,1 @@
+Select cname, sname from cust, salespeople where cust.snum = salespeople.snum 

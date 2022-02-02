@@ -1,0 +1,1 @@
+Select onum, amt, odate from orders;

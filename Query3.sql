@@ -1,0 +1,1 @@
+Select sname,comm from salespeople where city = "London";

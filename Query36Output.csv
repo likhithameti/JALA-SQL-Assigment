@@ -1,0 +1,9 @@
+CNAME,CNAME,RATING,RATING
+Hoffman,Grass,100,100
+Hoffman,Perela,100,100
+Liu,Clemens,300,300
+Grass,Hoffman,100,100
+Grass,Perela,100,100
+Clemens,Liu,300,300
+Perela,Hoffman,100,100
+Perela,Grass,100,100

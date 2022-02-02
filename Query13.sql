@@ -1,0 +1,1 @@
+Select cname from cust where city is null;

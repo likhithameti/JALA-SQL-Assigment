@@ -1,0 +1,1 @@
+Select cname, sname from salespeople, cust where sname in  ( select sname  from salespeople where ROWID <= 3) order by cname; 

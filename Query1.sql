@@ -1,0 +1,1 @@
+select snum,sname,city,comm from SALESPEOPLE;

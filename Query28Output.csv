@@ -1,0 +1,7 @@
+"'For the city (' || city || '), the highest rating is : (' ||  max(rating) || ')'"
+"For the city (Brelin), the highest rating is : (100)"
+"For the city (London), the highest rating is : (100)"
+"For the city (London ), the highest rating is : (300)"
+"For the city (Rome), the highest rating is : (200)"
+"For the city (Rome ), the highest rating is : (100)"
+"For the city (San Jose), the highest rating is : (300)"

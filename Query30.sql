@@ -1,0 +1,1 @@
+Select sname, cname from salespeople, cust where salespeople.city = cust.city; 

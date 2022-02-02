@@ -1,0 +1,1 @@
+Select min(cname) from cust where cname like "G%"; 

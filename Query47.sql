@@ -1,0 +1,1 @@
+Select comm from salespeople where snum in (select snum from cust where city = "London");
